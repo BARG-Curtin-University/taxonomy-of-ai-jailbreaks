@@ -3,7 +3,7 @@ title: "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics
 authors:
   - name: Michael Borck
     affiliation: Business Information Systems, Curtin University, Perth Australia
-    orcid: 0000-0002-0760-5497
+    orcid: 0000-0002-0950-6396
     corresponding: true
     email: michael.borck@curtin.edu.au
     roles:
@@ -13,7 +13,7 @@ authors:
       - Visualisation
   - name: Nik Thompson
     affiliation: Business Information Systems, Curtin University, Perth Australia
-    corresponding: true
+    orcid: 0000-0002-0783-1371
     email: nik.thompson@curtin.edu.au
     roles:
       - Editor
