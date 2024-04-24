@@ -1,22 +1,71 @@
-# Taxonomy of Gen-AI Jailbreaks
+Certainly! Here's a structured README for your GitHub repository, adapted for the paper "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics".
 
-This repository contains the data and Python script used in the generation of our research paper titled "Taxonomy of Gen-AI Jailbreaks – Insights into bypassing language model safeguards." 
+```markdown
+# Taxonomy-of-AI-Jailbreaks
+
+This repository contains the source code and materials for the research paper titled "Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics". The paper develops a comprehensive taxonomy for understanding and categorizing jailbreak tactics that bypass safeguards in large language models (LLMs), enhancing both the security measures and ethical considerations in AI applications.
 
 ## Overview
-The goal of this research project was to analyze and categorize various techniques used to bypass language model safeguards within the context of Generative AI (Gen-AI) systems. By exploring potential vulnerabilities and weaknesses in these models, we aim to shed light on the importance of robust safeguards in preventing unintended or malicious outputs. 
 
-## Contents
+The research paper delves into the following key topics:
 
-- **data:** This directory includes the datasets used for training and evaluation of the Gen-AI models in our research. It consists of labeled examples, benchmark datasets, and relevant supplementary data.
-- **scripts:** The Python script provided in this repository outlines the experimentation process and serves as a guideline to reproduce our research findings. It includes data preprocessing, model training, evaluation metrics, and sample code for analyzing the outputs.
-- **results:** This folder contains the results obtained from our experiments, along with visualizations, tables, and other pertinent materials used in generating the research paper.
+- **Taxonomic Development**: Introduction and explanation of the multi-tiered taxonomy developed to classify various jailbreak techniques threatening LLMs.
+- **Methodological Approach**: Description of the combined use of probabilistic topic modeling and conversational AI to analyze and categorize a corpus of real-world jailbreak prompts.
+- **Validation and Utility**: Insights into the validation process of the taxonomy's utility through manual topic tagging, representative document checks, and comparison to modeling outputs.
+- **Impact and Application**: Discussion on how the taxonomy aids in strategic efforts to detect risks, enhance protections, and responsibly innovate within the field of generative AI.
 
-## Contribution
-We encourage collaboration and contributions to further enhance our understanding of language model safeguards and discovering potential vulnerabilities. If you find any useful additions or improvements, please feel free to create a pull request or submit an issue.
+## Repository Structure
 
-**Note:** Please make sure to comply with ethical guidelines and use this research and code responsibly.
+The repository is organized as follows:
+
+```
+Taxonomy-of-AI-Jailbreaks/
+├── data/
+│   └── ... (datasets used in the paper)
+├── images/
+│   └── ... (images used in the paper)
+├── results/
+│   └── ... (output files, logs, and visualisations from experiments)
+├── src/
+│   └── ... (source code for topic modelling and analysis)
+├── _quarto.yml
+├── index.qmd (the main Quarto manuscript file)
+├── README.md
+└── references.bib
+```
+
+## Getting Started
+
+To get started with this repository, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/BARG-Curtin-University/taxonomy-of-ai-jailbreaks.git`
+2. Install the required dependencies (e.g., Python packages, Quarto, etc.)
+3. Explore the `src/` directory for the implementation of the taxonomy development and analysis techniques.
+4. Run the analyses using the scripts in the `src/` directory.
+5. Refer to the `index.qmd` file for the Quarto manuscript source code and compile it to generate the final research paper.
+
+## Contributing
+
+Contributions to this repository are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. When contributing, please follow the guidelines outlined in the repository's `CONTRIBUTING.md` file.
 
 ## Citation
-If you find this research or code helpful, we kindly request that you cite our paper. The citation details can be found in the accompanying research paper or the "CITATION.md" file in this repository.
 
-We hope that this research contributes to the ongoing discussions around the development, use, and safety of Generative AI systems.
+If you use the taxonomy or findings from this research paper in your work, please cite it as follows:
+
+```bibtex
+@article{borck2024unveiling,
+  title={Unveiling Risks in AI Systems: Taxonomic Insights into Jailbreak Tactics},
+  author={Borck, Michael and Thompson, Nik},
+  journal={arXiv preprint arXiv:...},
+  year={2024}
+}
+```
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+We extend our gratitude to the AI research community for their feedback and contributions, which have been instrumental in refining the taxonomy and enhancing our understanding of AI security vulnerabilities.
+```
