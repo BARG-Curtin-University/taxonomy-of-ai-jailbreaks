@@ -20,7 +20,7 @@ Jailbreak Tactics</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author" corresp="yes">
-          <contrib-id contrib-id-type="orcid">0000-0002-0760-5497</contrib-id>
+          <contrib-id contrib-id-type="orcid">0000-0002-0950-6396</contrib-id>
           <name>
             <surname>Borck</surname>
             <given-names>Michael</given-names>
@@ -35,7 +35,8 @@ administration</role>
           <xref ref-type="aff" rid="aff-1">a</xref>
           <xref ref-type="corresp" rid="cor-1">*</xref>
         </contrib>
-        <contrib contrib-type="author" corresp="yes">
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-0783-1371</contrib-id>
           <name>
             <surname>Thompson</surname>
             <given-names>Nik</given-names>
@@ -44,7 +45,6 @@ administration</role>
           <email>nik.thompson@curtin.edu.au</email>
           <role>Editor</role>
           <xref ref-type="aff" rid="aff-1">a</xref>
-          <xref ref-type="corresp" rid="cor-2">*</xref>
         </contrib>
       </contrib-group>
       <aff id="aff-1">
@@ -55,7 +55,6 @@ Australia</institution>
       </aff>
       <author-notes>
         <corresp id="cor-1">michael.borck@curtin.edu.au</corresp>
-        <corresp id="cor-2">nik.thompson@curtin.edu.au</corresp>
       </author-notes>
       <pub-date date-type="pub" publication-format="electronic" iso-8601-date="2024-04-24">
         <year>2024</year>
@@ -758,7 +757,7 @@ reliable LLMs.</p>
   </body>
   <back>
 </back>
-  <sub-article article-type="notebook" id="nb-3-nb-1">
+  <sub-article article-type="notebook" id="nb-2-nb-1">
     <front-stub>
 </front-stub>
     <body>
@@ -874,7 +873,7 @@ behaviors?</p>
     <back>
 </back>
   </sub-article>
-  <sub-article article-type="notebook" id="nb-6-nb-2">
+  <sub-article article-type="notebook" id="nb-4-nb-2">
     <front-stub>
 </front-stub>
     <body>
@@ -910,7 +909,7 @@ mitigation.</p>
     <back>
 </back>
   </sub-article>
-  <sub-article article-type="notebook" id="nb-9-nb-3">
+  <sub-article article-type="notebook" id="nb-6-nb-3">
     <front-stub>
 </front-stub>
     <body>
@@ -919,7 +918,7 @@ mitigation.</p>
     <back>
 </back>
   </sub-article>
-  <sub-article article-type="notebook" id="nb-12-nb-4">
+  <sub-article article-type="notebook" id="nb-8-nb-4">
     <front-stub>
 </front-stub>
     <body>
@@ -998,7 +997,7 @@ mitigation.</p>
     <back>
 </back>
   </sub-article>
-  <sub-article article-type="notebook" id="nb-15-nb-5">
+  <sub-article article-type="notebook" id="nb-10-nb-5">
     <front-stub>
 </front-stub>
     <body>
@@ -1389,7 +1388,7 @@ mitigation.</p>
     <back>
 </back>
   </sub-article>
-  <sub-article article-type="notebook" id="nb-18-nb-6">
+  <sub-article article-type="notebook" id="nb-12-nb-6">
     <front-stub>
 </front-stub>
     <body>
